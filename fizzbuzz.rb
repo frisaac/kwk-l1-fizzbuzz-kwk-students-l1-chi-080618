@@ -20,6 +20,6 @@ fizzbuzz(10)
 #  else
 #     nil
  # end
-end
+#end
 
-fizzbuzz(1)
+#fizzbuzz(1)
