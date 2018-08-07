@@ -12,8 +12,8 @@ def fizzbuzz(number)
   end
 end
 fizzbuzz(15)
+
 #SOLUTION 2
-fizzbuzz(15)
 #  if number % 15 == 0
  #    "FizzBuzz"
 #  elsif number % 5 == 0
@@ -24,5 +24,4 @@ fizzbuzz(15)
 #     nil
  # end
 #end
-
 #fizzbuzz(1)
