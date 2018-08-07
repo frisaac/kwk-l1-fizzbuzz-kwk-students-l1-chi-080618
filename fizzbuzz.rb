@@ -1,3 +1,4 @@
+#SOLUTION 1
 def fizzbuzz(number)
   if number%3 == 0 || number%5 == 0
     if number%3 == 0 
@@ -10,6 +11,8 @@ def fizzbuzz(number)
     nil
   end
 end
+fizzbuzz(15)
+#SOLUTION 2
 fizzbuzz(15)
 #  if number % 15 == 0
  #    "FizzBuzz"
