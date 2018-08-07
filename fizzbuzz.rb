@@ -1,8 +1,8 @@
 def fizzbuzz(number)
-  if(number%3 = 0)
+  if number%3 = 0 
     print "Fizz"
   end
-  if(number%5 = 0)
+  if number%5 = 0 
     print "Buzz"
   end
 #  if number % 15 == 0
