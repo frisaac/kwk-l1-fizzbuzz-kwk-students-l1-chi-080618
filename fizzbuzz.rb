@@ -10,7 +10,7 @@ def fizzbuzz(number)
     nil
   end
 end
-fizzbuzz(10)
+fizzbuzz(15)
 #  if number % 15 == 0
  #    "FizzBuzz"
 #  elsif number % 5 == 0
