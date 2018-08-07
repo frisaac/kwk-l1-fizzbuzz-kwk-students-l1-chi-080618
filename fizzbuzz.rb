@@ -1,10 +1,10 @@
 def fizzbuzz(number)
   if number%3 == 0 || number%5 == 0
     if number%3 == 0 
-       "Fizz"
+       print "Fizz"
     end
     if number%5 == 0 
-      "Buzz"
+      print "Buzz"
     end
   else
     nil
