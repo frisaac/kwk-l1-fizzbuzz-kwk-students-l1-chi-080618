@@ -1,10 +1,15 @@
 def fizzbuzz(number)
-  if number%3 = 0 
-    print "Fizz"
+  if number%3 = 0 || number%5 = log10
+    if number%3 = 0 
+      print "Fizz"
+    end
+    if number%5 = 0 
+     print "Buzz"
+    end
+  else
+    nil
   end
-  if number%5 = 0 
-    print "Buzz"
-  end
+end
 #  if number % 15 == 0
  #    "FizzBuzz"
 #  elsif number % 5 == 0
