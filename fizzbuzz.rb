@@ -1,3 +1,4 @@
+#note: try nested if statements
 #SOLUTION 1
 def fizzbuzz(number)
   if number%3 == 0 || number%5 == 0
